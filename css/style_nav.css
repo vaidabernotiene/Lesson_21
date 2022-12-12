@@ -52,3 +52,6 @@ body {
     color: lightsalmon;
   }
   
+  .navbar li:nth-of-type(1)>a {
+    color: lightsalmon;
+  }
