@@ -1,0 +1,22 @@
+@import "./style_nav.css";
+
+section {
+  padding: 20px;
+}
+
+button {
+  padding: 10px;
+  border-radius: 10px;
+  border: 1px solid gray;
+}
+@import "./style_nav.css";
+
+section {
+  padding: 20px;
+}
+
+button {
+  padding: 10px;
+  border-radius: 10px;
+  border: 1px solid gray;
+}
