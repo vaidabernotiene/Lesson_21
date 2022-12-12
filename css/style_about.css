@@ -9,7 +9,3 @@ button{
   border-radius: 10px;
   border: 1px solid gray;
 }
-
-.navbar li:nth-of-type(2)>a {
-  color: lightsalmon;
-}
