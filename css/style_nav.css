@@ -29,9 +29,11 @@ a {
   display: flex;
   list-style: none;
   align-items: center;
+  align-content: center;
 }
 
 .navbar li {
+  text-align: center;
   position: relative;
 }
 
@@ -40,7 +42,7 @@ a {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 10px 0 10px 30px;
+  padding: 20px;
   font-size: 15px;
   font-weight: 600;
   color: #ffc451;
@@ -53,5 +55,6 @@ a {
 }
 
 .active {
+  background-color: lightcoral;
   color: lightsalmon;
 }
