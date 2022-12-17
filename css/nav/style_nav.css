@@ -72,6 +72,10 @@ a {
   color: lightsalmon;
 }
 
+.navbar ul li a{
+  background-color: #ffc451;
+}
+
 .active {
   background-color: #ffc451;
   color: lightsalmon;
